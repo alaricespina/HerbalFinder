@@ -1,0 +1,78 @@
+{
+    "description": "Would act as JSON Database for Accounts",
+    "title": "Accounts List",
+    "users": {
+        "0": {
+            "email": "Hatdog@gmail.com",
+            "id": "0",
+            "password": "bossing",
+            "username": "Hatdog"
+        },
+        "1": {
+            "email": "rad@gmail.com",
+            "id": "1",
+            "password": "frontend",
+            "username": "Hatdog"
+        },
+        "10": {
+            "email": "hatsunemiku@gmail.com",
+            "id": "10",
+            "password": "Miku39",
+            "username": "Miku"
+        },
+        "11": {
+            "email": "khyle123@gmail.com",
+            "id": "11",
+            "password": "12345678",
+            "username": "Khyle123"
+        },
+        "2": {
+            "email": "remiliauruha@gmail.com",
+            "id": "2",
+            "password": "backend",
+            "username": "Remi"
+        },
+        "3": {
+            "email": "xdd@gmail.com",
+            "id": "3",
+            "password": "XDD",
+            "username": "Xdd"
+        },
+        "4": {
+            "email": "cirno@gmail.com",
+            "id": "4",
+            "password": "cirno123",
+            "username": "Cirno"
+        },
+        "5": {
+            "email": "alaric@gmail.com",
+            "id": "5",
+            "password": "1234",
+            "username": "HATDOG"
+        },
+        "6": {
+            "email": "B",
+            "id": "6",
+            "password": "C",
+            "username": "A"
+        },
+        "7": {
+            "email": "remixdd@gmail.com",
+            "id": "7",
+            "password": "Xdd123",
+            "username": "Remilia"
+        },
+        "8": {
+            "email": "reimuhakurei@gmail.com",
+            "id": "8",
+            "password": "touhou123",
+            "username": "Reimu"
+        },
+        "9": {
+            "email": "mumeinanashi@gmail.com",
+            "id": "9",
+            "password": "hoothoot",
+            "username": "Mumei"
+        }
+    }
+}

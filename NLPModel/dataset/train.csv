@@ -1,0 +1,934 @@
+index,SYMPTOMS,JACKFRUIT,SAMBONG,LEMON,JASMINE,MANGO,MINT,AMPALAYA,MALUNGGAY,GUAVA,LAGUNDI
+0,Is there a remedy for headaches,0,0,0,0,0,1,0,0,0,0
+1,Is there a herbal for high uric acid,0,1,0,0,0,0,0,0,0,0
+2,Is there a remedy for indigestion,0,0,0,0,0,1,0,0,1,0
+3,What herbal should I use with stroke,0,0,1,0,0,0,0,0,0,0
+4,Is there a remedy for fiber,1,0,1,0,0,0,0,0,1,0
+5,Which natural remedy should I use for lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+6,Is there a herbal for calcium,0,0,0,0,0,0,0,1,0,0
+7,What herbal should I use with diabetes,1,0,0,0,1,0,1,1,1,0
+8,I need a herbal for low calories,0,0,0,0,1,0,0,0,0,0
+9,I have muscle pain,0,1,0,0,0,0,0,0,0,1
+10,I have anti-diarrhea,0,1,0,0,0,0,0,0,0,0
+11,Which natural remedy should I use for anxiety,0,0,0,1,0,0,0,0,0,0
+12,Is there a herbal for digestion,0,0,0,0,0,1,0,0,1,0
+13,I need a herbal for blood clotting,0,1,0,0,0,0,0,0,0,0
+14,I need a herbal for infected wound,0,1,0,0,0,0,0,0,0,0
+15,I need a herbal for ulcers,1,0,0,0,0,0,0,0,0,0
+16,My need concerns with aromatherapy,0,0,0,0,0,1,0,0,0,0
+17,Herbal for pregnancy,0,0,0,0,1,0,0,0,0,0
+18,What herbal should I use with sedative,0,0,1,1,0,0,0,0,0,0
+19,Is there a remedy for upper respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+20,I have pregnancy,0,0,0,0,1,0,0,0,0,0
+21,What herbal should I use with antimicrobial,0,1,0,0,0,1,0,0,1,1
+22,I need a herbal for dull hair,0,0,0,0,1,0,0,0,0,0
+23,Is there a remedy for antioxidant,0,1,0,1,0,0,1,1,1,0
+24,What herbal should I use with skin,0,0,0,0,1,0,0,0,1,1
+25,Herbal for acute rhinosinusitis,0,1,0,0,0,0,0,0,0,0
+26,Which natural remedy should I use for antioxidant,0,1,0,1,0,0,1,1,1,0
+27,Is there a remedy for Vitamin A,0,0,0,0,1,0,0,0,0,0
+28,What herbal should I use with anxiety,0,0,0,1,0,0,0,0,0,0
+29,What herbal should I use with platelet aggregation,0,1,0,0,0,0,0,0,0,0
+30,Is there a remedy for scalds on skin,0,0,0,0,1,0,0,0,0,0
+31,I have hypertension,0,1,0,0,0,0,0,0,0,0
+32,What herbal should I use with anti-diarrhea,0,1,0,0,0,0,0,0,0,0
+33,Which natural remedy should I use for digestion,0,0,0,0,0,1,0,0,1,0
+34,I need a herbal for cell repair,0,0,0,0,1,0,0,0,1,0
+35,Is there a remedy for liver,0,1,0,1,0,0,1,0,0,0
+36,Is there a remedy for cold,0,0,0,0,0,1,0,0,0,1
+37,What herbal should I use with refreshing,0,0,0,0,0,1,0,0,0,0
+38,Herbal for kidney problem,0,1,0,0,0,0,0,0,0,0
+39,My need concerns with laryngitis,0,1,0,0,0,0,0,0,1,1
+40,Herbal for malnutrition,0,0,0,0,0,0,0,1,0,0
+41,Is there a herbal for citric acid,0,0,1,0,0,0,0,0,0,0
+42,Is there a remedy for acute rhinitis,0,1,0,0,0,0,0,0,0,0
+43,Is there a remedy for blood clotting,0,1,0,0,0,0,0,0,0,0
+44,I need a herbal for liver pain,0,0,0,1,0,0,0,0,0,0
+45,Is there a herbal for vitamin A,0,0,0,0,0,0,0,1,0,0
+46,Is there a herbal for urinary tract infection,0,1,0,0,0,0,0,0,0,0
+47,My need concerns with immune system,1,0,0,1,1,0,1,0,1,0
+48,I have medicine,0,0,0,1,0,0,0,0,0,1
+49,Is there a remedy for stroke,0,0,1,0,0,0,0,0,0,0
+50,Which natural remedy should I use for gut,0,0,1,0,0,0,0,0,0,0
+51,Herbal for rich in iron,0,0,1,0,1,0,0,0,0,0
+52,I have LBM,0,1,0,0,0,0,0,0,0,0
+53,Is there a remedy for rich in minerals,0,0,0,0,0,0,1,0,0,0
+54,Is there a remedy for lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+55,Is there a remedy for acute otitis media,0,1,0,0,0,0,0,0,0,0
+56,My need concerns with gut problems,1,0,0,0,0,0,0,0,0,0
+57,Is there a herbal for relax muscle,0,1,0,0,0,0,0,0,0,0
+58,Herbal for nasal congestion,0,1,0,0,0,2,0,0,0,1
+59,Is there a herbal for cooling sensation,0,0,0,0,0,1,0,0,0,0
+60,Is there a herbal for mental clarity,0,0,0,1,0,0,0,0,0,0
+61,I have rich in vitamins,0,0,0,0,0,0,1,1,0,0
+62,I need a herbal for cirrhosis,0,0,0,1,0,0,0,0,0,0
+63,What herbal should I use with hepatitis,0,1,0,1,0,0,0,0,0,0
+64,My need concerns with loose stools,0,1,0,0,0,0,0,0,0,0
+65,I need a herbal for sore throat,0,0,0,0,0,1,0,0,0,1
+66,I need a herbal for cough,0,1,0,0,0,1,0,0,1,1
+67,What herbal should I use with bloating,0,0,0,0,0,1,0,0,0,0
+68,What herbal should I use with hepatoprotective,0,1,0,1,0,0,0,0,0,0
+69,Is there a herbal for kidney stones,0,1,1,0,0,0,0,0,0,0
+70,Which natural remedy should I use for skin irritation,0,0,0,0,0,0,0,0,0,1
+71,Is there a herbal for staph infection,0,0,0,0,1,0,0,0,0,0
+72,I have anti-diabetic,1,0,0,0,1,0,1,0,0,0
+73,My need concerns with tumor,0,1,0,0,0,0,0,0,0,0
+74,Is there a herbal for stroke,0,0,1,0,0,0,0,0,0,0
+75,My need concerns with viral infection,1,0,0,0,0,0,0,0,0,0
+76,I have pharyngitis,0,1,0,0,0,0,0,0,1,1
+77,My need concerns with hepatitis,0,1,0,1,0,0,0,0,0,0
+78,My need concerns with mental clarity,0,0,0,1,0,0,0,0,0,0
+79,My need concerns with high uric acid,0,1,0,0,0,0,0,0,0,0
+80,I need a herbal for respiratory infection,0,1,0,0,0,0,0,0,1,1
+81,Which natural remedy should I use for rhinitis,0,1,0,0,0,1,0,0,0,0
+82,Herbal for skin infection,0,0,0,0,1,0,0,0,0,0
+83,My need concerns with digestion,0,0,0,0,0,1,0,0,1,0
+84,I have tonsilitis,0,1,0,0,0,0,0,0,1,1
+85,Which natural remedy should I use for tea,0,1,1,1,0,0,0,1,1,0
+86,Is there a herbal for liver disease,0,0,0,1,0,0,0,0,0,0
+87,Herbal for anti-obesity,0,1,0,0,0,0,0,0,0,0
+88,Is there a remedy for cancer,1,0,0,1,0,0,0,0,0,0
+89,I need a herbal for heart problems,1,0,0,0,0,0,0,0,0,0
+90,What herbal should I use with vitamin E,0,0,0,0,0,0,0,1,0,0
+91,Is there a remedy for viral infection,1,0,0,0,0,0,0,0,0,0
+92,I have stress,0,0,0,1,0,0,0,1,0,0
+93,Is there a remedy for promote satiety/satisfaction,0,0,0,0,0,0,1,0,0,0
+94,I need a herbal for weight management,0,0,0,0,0,0,1,0,0,0
+95,I need a herbal for lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+96,My need concerns with protein,0,0,0,0,0,0,0,1,0,0
+97,What herbal should I use with hypertension,0,1,0,0,0,0,0,0,0,0
+98,Herbal for cell growth,0,0,0,0,1,0,0,0,1,0
+99,Is there a remedy for cell damage,0,0,0,0,1,0,0,0,1,0
+100,I need a herbal for healthy digestion,0,0,0,0,0,1,0,0,0,0
+101,Which natural remedy should I use for lower cholesterol,0,0,1,0,0,0,0,0,0,0
+102,Is there a remedy for natural decongestant,0,0,0,0,0,1,0,0,0,0
+103,My need concerns with weight management,0,0,0,0,0,0,1,0,0,0
+104,What herbal should I use with Alzheimerâ€™s disease,0,0,0,1,0,0,0,0,0,0
+105,What herbal should I use with acute rhinosinusitis,0,1,0,0,0,0,0,0,0,0
+106,I have healthy digestion,0,0,0,0,0,1,0,0,0,0
+107,Herbal for hypertension,0,1,0,0,0,0,0,0,0,0
+108,I need a herbal for ligament problems,0,1,0,0,0,0,0,0,0,0
+109,Is there a herbal for viral infection,1,0,0,0,0,0,0,0,0,0
+110,Herbal for sore throat,0,0,0,0,0,1,0,0,0,1
+111,I need a herbal for heart disease,0,0,1,1,0,0,0,0,0,0
+112,I need a herbal for scalds on skin,0,0,0,0,1,0,0,0,0,0
+113,Is there a remedy for radical damage,0,0,0,1,0,0,0,0,1,0
+114,I need a herbal for viral infection,1,0,0,0,0,0,0,0,0,0
+115,Herbal for muscle pain,0,1,0,0,0,0,0,0,0,1
+116,What herbal should I use with bone problems,0,1,0,0,0,0,0,0,0,0
+117,What herbal should I use with respiratory infection,0,1,0,0,0,0,0,0,1,1
+118,Is there a herbal for acute otitis media,0,1,0,0,0,0,0,0,0,0
+119,I have hepatoprotective,0,1,0,1,0,0,0,0,0,0
+120,My need concerns with cell growth,0,0,0,0,1,0,0,0,1,0
+121,Herbal for fiber,1,0,1,0,0,0,0,0,1,0
+122,I need a herbal for weight loss,0,0,0,0,0,0,1,0,0,0
+123,What herbal should I use with tea,0,1,1,1,0,0,0,1,1,0
+124,Is there a remedy for cancer treatment,0,0,0,1,0,0,0,0,0,0
+125,I need a herbal for nausea,0,0,0,0,0,1,0,0,0,0
+126,Which natural remedy should I use for Alzheimerâ€™s disease,0,0,0,1,0,0,0,0,0,0
+127,Is there a herbal for ulcers,1,0,0,0,0,0,0,0,0,0
+128,What herbal should I use with rich in iron,0,0,1,0,1,0,0,0,0,0
+129,My need concerns with weight loss,0,0,0,0,0,0,1,0,0,0
+130,Herbal for anti-spasm,0,1,1,0,0,0,0,0,0,0
+131,Herbal for acute rhinitis,0,1,0,0,0,0,0,0,0,0
+132,My need concerns with upper respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+133,I have hyperglycemia,0,0,0,0,1,0,0,0,0,0
+134,Is there a herbal for anti-diabetic,1,0,0,0,1,0,1,0,0,0
+135,Which natural remedy should I use for hyperglycemia,0,0,0,0,1,0,0,0,0,0
+136,What herbal should I use with upper respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+137,Is there a herbal for Vitamin C,1,0,1,0,1,0,0,0,1,0
+138,Is there a remedy for dull hair,0,0,0,0,1,0,0,0,0,0
+139,Herbal for cough,0,1,0,0,0,1,0,0,1,1
+140,I need a herbal for digestion,0,0,0,0,0,1,0,0,1,0
+141,My need concerns with sore throat,0,0,0,0,0,1,0,0,0,1
+142,Herbal for dry cough,0,1,0,0,0,0,0,0,0,0
+143,What herbal should I use with healthy digestion,0,0,0,0,0,1,0,0,0,0
+144,I need a herbal for spasm,0,1,1,0,0,0,0,0,0,0
+145,I need a herbal for anxiety,0,0,0,1,0,0,0,0,0,0
+146,I need a herbal for stomach pain,0,1,0,0,0,1,0,0,0,0
+147,Is there a remedy for cooling sensation,0,0,0,0,0,1,0,0,0,0
+148,My need concerns with bloating,0,0,0,0,0,1,0,0,0,0
+149,Is there a remedy for anti-obesity,0,1,0,0,0,0,0,0,0,0
+150,Which natural remedy should I use for respiratory ailments,0,0,0,0,0,0,0,0,0,1
+151,Herbal for Parkinsonâ€™s disease,0,0,0,1,0,0,0,0,0,0
+152,My need concerns with antibacterial,0,0,0,0,1,0,0,0,0,0
+153,Is there a remedy for hepatoprotective,0,1,0,1,0,0,0,0,0,0
+154,I have joint problems,0,1,0,0,0,0,0,0,0,0
+155,I need a herbal for asthma,0,0,0,0,0,0,0,0,0,1
+156,What herbal should I use with rich in minerals,0,0,0,0,0,0,1,0,0,0
+157,Is there a remedy for healthy hair,0,0,0,0,1,0,0,0,0,0
+158,I need a herbal for respiratory ailments,0,0,0,0,0,0,0,0,0,1
+159,Is there a herbal for cold,0,0,0,0,0,1,0,0,0,1
+160,I have dysentery,0,0,0,1,0,0,0,0,1,0
+161,Which natural remedy should I use for acute rhinosinusitis,0,1,0,0,0,0,0,0,0,0
+162,I need a herbal for kidney disease,0,1,0,0,0,0,0,0,0,0
+163,I have vitamin C,0,0,0,0,0,0,0,1,0,0
+164,Herbal for muscle pain,0,1,0,0,0,0,0,0,0,1
+165,Which natural remedy should I use for diarrhea,0,1,0,1,0,0,0,0,1,0
+166,Which natural remedy should I use for wound infection,0,1,0,0,0,0,0,0,0,0
+167,Is there a herbal for infected wound,0,1,0,0,0,0,0,0,0,0
+168,Is there a herbal for antibacterial,0,0,0,0,1,0,0,0,0,0
+169,Which natural remedy should I use for skin infection,0,0,0,0,1,0,0,0,0,0
+170,Is there a remedy for low calorie count,1,0,0,0,0,0,0,0,0,0
+171,I need a herbal for hepatoprotective,0,1,0,1,0,0,0,0,0,0
+172,Is there a herbal for platelet aggregation,0,1,0,0,0,0,0,0,0,0
+173,My need concerns with bad breath,0,0,0,0,0,1,0,0,0,0
+174,Is there a remedy for ligament problems,0,1,0,0,0,0,0,0,0,0
+175,My need concerns with headaches,0,0,0,0,0,1,0,0,0,0
+176,I have weight management,0,0,0,0,0,0,1,0,0,0
+177,I have rhinitis,0,1,0,0,0,1,0,0,0,0
+178,Which natural remedy should I use for urinary tract infection,0,1,0,0,0,0,0,0,0,0
+179,I have rhinorrhea,0,0,0,0,0,1,0,0,0,0
+180,My need concerns with loose bowel movement,0,1,0,0,0,0,0,0,0,0
+181,Is there a remedy for hepatitis,0,1,0,1,0,0,0,0,0,0
+182,What herbal should I use with viral infection,1,0,0,0,0,0,0,0,0,0
+183,Which natural remedy should I use for loose stools,0,1,0,0,0,0,0,0,0,0
+184,Is there a remedy for anti-spasm,0,1,1,0,0,0,0,0,0,0
+185,Is there a remedy for anti-diarrhea,0,1,0,0,0,0,0,0,0,0
+186,I have nasal congestion,0,1,0,0,0,2,0,0,0,1
+187,Herbal for dysentery,0,0,0,1,0,0,0,0,1,0
+188,Is there a herbal for laryngitis,0,1,0,0,0,0,0,0,1,1
+189,Which natural remedy should I use for rheumatism,0,1,0,0,0,0,0,0,0,0
+190,Is there a remedy for nutrient deficiencies,0,0,0,0,0,0,0,1,0,0
+191,Is there a remedy for joint problems,0,1,0,0,0,0,0,0,0,0
+192,Herbal for bone problems,0,1,0,0,0,0,0,0,0,0
+193,What herbal should I use with source of B vitamins,1,0,0,0,0,0,0,0,0,0
+194,I have tea,0,1,1,1,0,0,0,1,1,0
+195,What herbal should I use with alkaloids,0,0,0,0,0,0,0,0,0,1
+196,Is there a remedy for diarrhea,0,1,0,1,0,0,0,0,1,0
+197,What herbal should I use with stomach discomfort,0,1,0,0,0,1,0,0,0,0
+198,What herbal should I use with hair,0,0,0,0,1,0,0,0,0,0
+199,What herbal should I use with liver pain,0,0,0,1,0,0,0,0,0,0
+200,Which natural remedy should I use for blood clotting,0,1,0,0,0,0,0,0,0,0
+201,My need concerns with arthritis,0,1,0,0,0,0,0,0,0,0
+202,I have healthy hair,0,0,0,0,1,0,0,0,0,0
+203,Is there a remedy for cell growth,0,0,0,0,1,0,0,0,1,0
+204,Is there a herbal for respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+205,Is there a herbal for UTI,0,1,0,0,0,0,0,0,0,0
+206,Is there a herbal for Alzheimerâ€™s disease,0,0,0,1,0,0,0,0,0,0
+207,My need concerns with skin infection,0,0,0,0,1,0,0,0,0,0
+208,I need a herbal for gut problems,1,0,0,0,0,0,0,0,0,0
+209,I need a herbal for skin irritation,0,0,0,0,0,0,0,0,0,1
+210,I need a herbal for hepatitis,0,1,0,1,0,0,0,0,0,0
+211,Is there a remedy for loose bowel movement,0,1,0,0,0,0,0,0,0,0
+212,Herbal for ulcers,1,0,0,0,0,0,0,0,0,0
+213,Which natural remedy should I use for weight management,0,0,0,0,0,0,1,0,0,0
+214,Is there a herbal for colds,0,1,0,0,0,0,0,0,0,0
+215,I have kidney stones,0,1,1,0,0,0,0,0,0,0
+216,I have oral bacteria,0,0,0,0,0,1,0,0,0,0
+217,I need a herbal for digestive discomfort,0,0,0,0,0,1,0,0,0,0
+218,Is there a remedy for anemic,0,0,1,0,0,0,0,0,0,0
+219,My need concerns with hepatoprotective,0,1,0,1,0,0,0,0,0,0
+220,Herbal for relaxing,0,0,1,1,0,0,0,0,0,0
+221,Which natural remedy should I use for high uric acid,0,1,0,0,0,0,0,0,0,0
+222,I need a herbal for flavonoids,1,0,0,0,0,0,0,1,1,1
+223,Is there a herbal for stomach discomfort,0,1,0,0,0,1,0,0,0,0
+224,I have weight loss,0,0,0,0,0,0,1,0,0,0
+225,What herbal should I use with infection,0,1,0,0,1,0,1,0,1,0
+226,I need a herbal for low calorie count,1,0,0,0,0,0,0,0,0,0
+227,I have radical damage,0,0,0,1,0,0,0,0,1,0
+228,I need a herbal for skin,0,0,0,0,1,0,0,0,1,1
+229,I have source of B vitamins,1,0,0,0,0,0,0,0,0,0
+230,My need concerns with refreshing,0,0,0,0,0,1,0,0,0,0
+231,Which natural remedy should I use for staph infection,0,0,0,0,1,0,0,0,0,0
+232,Is there a herbal for diabetes,1,0,0,0,1,0,1,1,1,0
+233,Herbal for gut,0,0,1,0,0,0,0,0,0,0
+234,Is there a remedy for rich in potassium,1,0,0,0,0,0,0,0,0,0
+235,Is there a remedy for insect bites,0,0,0,0,0,0,0,0,0,1
+236,I have wound,0,1,0,0,0,0,0,0,1,0
+237,I have respiratory infection,0,1,0,0,0,0,0,0,1,1
+238,Is there a remedy for rheumatism,0,1,0,0,0,0,0,0,0,0
+239,My need concerns with Vitamin A,0,0,0,0,1,0,0,0,0,0
+240,I have gut problems,1,0,0,0,0,0,0,0,0,0
+241,Is there a herbal for arthritis,0,1,0,0,0,0,0,0,0,0
+242,What herbal should I use with wound,0,1,0,0,0,0,0,0,1,0
+243,Is there a remedy for alkaloids,0,0,0,0,0,0,0,0,0,1
+244,Is there a herbal for dull hair,0,0,0,0,1,0,0,0,0,0
+245,Is there a remedy for dysentery,0,0,0,1,0,0,0,0,1,0
+246,Is there a herbal for obesity,0,1,0,0,0,0,0,0,0,0
+247,I have vitamin E,0,0,0,0,0,0,0,1,0,0
+248,My need concerns with rich in micronutrients,1,0,0,0,0,0,0,0,0,0
+249,Is there a herbal for oral bacteria,0,0,0,0,0,1,0,0,0,0
+250,I have prevent weight gain,0,0,1,0,0,0,0,0,0,0
+251,I have loose bowel movement,0,1,0,0,0,0,0,0,0,0
+252,My need concerns with lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+253,I have immune system,1,0,0,1,1,0,1,0,1,0
+254,What herbal should I use with flavonoids,1,0,0,0,0,0,0,1,1,1
+255,What herbal should I use with protein,0,0,0,0,0,0,0,1,0,0
+256,Is there a herbal for iron,0,0,1,0,0,0,0,1,0,0
+257,I have inflammation,1,1,0,1,0,0,0,1,0,1
+258,Is there a herbal for freshen breath,0,0,0,0,0,1,0,0,0,0
+259,My need concerns with minerals,0,0,0,0,1,0,0,0,0,0
+260,My need concerns with cirrhosis,0,0,0,1,0,0,0,0,0,0
+261,I need a herbal for anti-obesity,0,1,0,0,0,0,0,0,0,0
+262,I need a herbal for acute rhinitis,0,1,0,0,0,0,0,0,0,0
+263,I have urinary tract,0,1,0,0,0,0,0,0,0,0
+264,Is there a remedy for high blood pressure,1,1,0,0,1,0,0,0,0,0
+265,Which natural remedy should I use for flavonoids,1,0,0,0,0,0,0,1,1,1
+266,Which natural remedy should I use for anti-diarrhea,0,1,0,0,0,0,0,0,0,0
+267,Is there a remedy for bloating,0,0,0,0,0,1,0,0,0,0
+268,What herbal should I use with lower cholesterol,0,0,1,0,0,0,0,0,0,0
+269,What herbal should I use with promote satiety/satisfaction,0,0,0,0,0,0,1,0,0,0
+270,Is there a herbal for vitamin C,0,0,0,0,0,0,0,1,0,0
+271,Is there a herbal for nasal congestion,0,1,0,0,0,2,0,0,0,1
+272,What herbal should I use with heart problems,1,0,0,0,0,0,0,0,0,0
+273,I have obesity,0,1,0,0,0,0,0,0,0,0
+274,I need a herbal for tea,0,1,1,1,0,0,0,1,1,0
+275,I have platelet aggregation,0,1,0,0,0,0,0,0,0,0
+276,Herbal for antibacterial,0,0,0,0,1,0,0,0,0,0
+277,Which natural remedy should I use for hepatoprotective,0,1,0,1,0,0,0,0,0,0
+278,What herbal should I use with dull hair,0,0,0,0,1,0,0,0,0,0
+279,Herbal for source of B vitamins,1,0,0,0,0,0,0,0,0,0
+280,My need concerns with hypertension,0,1,0,0,0,0,0,0,0,0
+281,Which natural remedy should I use for low calories,0,0,0,0,1,0,0,0,0,0
+282,Is there a remedy for rich in micronutrients,1,0,0,0,0,0,0,0,0,0
+283,I need a herbal for cancer treatment,0,0,0,1,0,0,0,0,0,0
+284,Is there a remedy for ulcer,0,1,0,0,0,0,0,0,0,0
+285,What herbal should I use with constipation,1,0,0,0,0,0,0,0,0,0
+286,My need concerns with inflammation,1,1,0,1,0,0,0,1,0,1
+287,Herbal for low calories,0,0,0,0,1,0,0,0,0,0
+288,Is there a herbal for constipation,1,0,0,0,0,0,0,0,0,0
+289,Which natural remedy should I use for digestive discomfort,0,0,0,0,0,1,0,0,0,0
+290,Is there a herbal for liver pain,0,0,0,1,0,0,0,0,0,0
+291,I have hepatitis,0,1,0,1,0,0,0,0,0,0
+292,Is there a remedy for antimicrobial,0,1,0,0,0,1,0,0,1,1
+293,Is there a remedy for laryngitis,0,1,0,0,0,0,0,0,1,1
+294,What herbal should I use with muscle pain,0,1,0,0,0,0,0,0,0,1
+295,I need a herbal for nasal congestion,0,1,0,0,0,2,0,0,0,1
+296,I need a herbal for inflammation,1,1,0,1,0,0,0,1,0,1
+297,I need a herbal for digestive enzymes,0,0,0,0,0,1,0,0,0,0
+298,I have tumor,0,1,0,0,0,0,0,0,0,0
+299,I need a herbal for antioxidant,0,1,0,1,0,0,1,1,1,0
+300,Herbal for healthy digestion,0,0,0,0,0,1,0,0,0,0
+301,Herbal for lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+302,Which natural remedy should I use for hypertension,0,1,0,0,0,0,0,0,0,0
+303,Which natural remedy should I use for Vitamin A,0,0,0,0,1,0,0,0,0,0
+304,Herbal for laryngitis,0,1,0,0,0,0,0,0,1,1
+305,I have indigestion,0,0,0,0,0,1,0,0,1,0
+306,I need a herbal for skin infection,0,0,0,0,1,0,0,0,0,0
+307,Is there a remedy for spasm,0,1,1,0,0,0,0,0,0,0
+308,I have nutrient deficiencies,0,0,0,0,0,0,0,1,0,0
+309,My need concerns with antioxidant,0,1,0,1,0,0,1,1,1,0
+310,Is there a herbal for bone problems,0,1,0,0,0,0,0,0,0,0
+311,Which natural remedy should I use for relaxing,0,0,1,1,0,0,0,0,0,0
+312,Which natural remedy should I use for kidney stones,0,1,1,0,0,0,0,0,0,0
+313,Is there a herbal for skin aging,0,0,0,0,0,0,0,0,1,0
+314,Is there a herbal for heart disease,0,0,1,1,0,0,0,0,0,0
+315,Which natural remedy should I use for cell repair,0,0,0,0,1,0,0,0,1,0
+316,Herbal for kidney disease,0,1,0,0,0,0,0,0,0,0
+317,I need a herbal for diarrhea,0,1,0,1,0,0,0,0,1,0
+318,Which natural remedy should I use for sedative,0,0,1,1,0,0,0,0,0,0
+319,Which natural remedy should I use for arthritis,0,1,0,0,0,0,0,0,0,0
+320,Is there a herbal for healthy hair,0,0,0,0,1,0,0,0,0,0
+321,I need a herbal for lower cholesterol,0,0,1,0,0,0,0,0,0,0
+322,Is there a herbal for dysentery,0,0,0,1,0,0,0,0,1,0
+323,I have high blood pressure,1,1,0,0,1,0,0,0,0,0
+324,My need concerns with antimicrobial,0,1,0,0,0,1,0,0,1,1
+325,I have rich in micronutrients,1,0,0,0,0,0,0,0,0,0
+326,What herbal should I use with wound healing,0,1,0,0,0,0,0,0,1,0
+327,My need concerns with asthma,0,0,0,0,0,0,0,0,0,1
+328,Herbal for nausea,0,0,0,0,0,1,0,0,0,0
+329,Herbal for anemic,0,0,1,0,0,0,0,0,0,0
+330,Is there a herbal for ligament problems,0,1,0,0,0,0,0,0,0,0
+331,Which natural remedy should I use for acute otitis media,0,1,0,0,0,0,0,0,0,0
+332,What herbal should I use with Parkinsonâ€™s disease,0,0,0,1,0,0,0,0,0,0
+333,Which natural remedy should I use for liver disease,0,0,0,1,0,0,0,0,0,0
+334,Is there a remedy for dry cough,0,1,0,0,0,0,0,0,0,0
+335,What herbal should I use with high fiber,0,0,1,0,0,0,1,0,0,0
+336,My need concerns with nasal congestion,0,1,0,0,0,2,0,0,0,1
+337,My need concerns with liver pain,0,0,0,1,0,0,0,0,0,0
+338,What herbal should I use with insect bites,0,0,0,0,0,0,0,0,0,1
+339,Which natural remedy should I use for protein,0,0,0,0,0,0,0,1,0,0
+340,I have digestive enzymes,0,0,0,0,0,1,0,0,0,0
+341,Herbal for iron,0,0,1,0,0,0,0,1,0,0
+342,Is there a remedy for skin aging,0,0,0,0,0,0,0,0,1,0
+343,Is there a herbal for upper respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+344,I have skin aging,0,0,0,0,0,0,0,0,1,0
+345,I need a herbal for calm,0,0,0,1,0,1,0,0,0,0
+346,I have diarrhea,0,1,0,1,0,0,0,0,1,0
+347,What herbal should I use with bad breath,0,0,0,0,0,1,0,0,0,0
+348,Is there a herbal for kidney problem,0,1,0,0,0,0,0,0,0,0
+349,I need a herbal for hyperglycemia,0,0,0,0,1,0,0,0,0,0
+350,My need concerns with liver disease,0,0,0,1,0,0,0,0,0,0
+351,I need a herbal for antibacterial,0,0,0,0,1,0,0,0,0,0
+352,Is there a herbal for alkaloids,0,0,0,0,0,0,0,0,0,1
+353,Herbal for urinary tract infection,0,1,0,0,0,0,0,0,0,0
+354,I need a herbal for anti-spasm,0,1,1,0,0,0,0,0,0,0
+355,Which natural remedy should I use for anti-melanogenic,1,1,0,0,0,0,0,0,0,0
+356,I have cancer treatment,0,0,0,1,0,0,0,0,0,0
+357,Is there a herbal for nutrient deficiencies,0,0,0,0,0,0,0,1,0,0
+358,Is there a remedy for weight loss,0,0,0,0,0,0,1,0,0,0
+359,Is there a herbal for high blood pressure,1,1,0,0,1,0,0,0,0,0
+360,I need a herbal for cooling sensation,0,0,0,0,0,1,0,0,0,0
+361,I need a herbal for cold,0,0,0,0,0,1,0,0,0,1
+362,I need a herbal for boost energy level,0,0,0,0,0,0,0,1,0,0
+363,Is there a remedy for medicine,0,0,0,1,0,0,0,0,0,1
+364,Herbal for abdominal pain,0,0,0,1,0,0,0,0,0,0
+365,What herbal should I use with cirrhosis,0,0,0,1,0,0,0,0,0,0
+366,My need concerns with respiratory ailments,0,0,0,0,0,0,0,0,0,1
+367,I have lower cholesterol,0,0,1,0,0,0,0,0,0,0
+368,Which natural remedy should I use for skin damage,0,0,0,0,0,0,0,0,1,0
+369,I need a herbal for urinary tract,0,1,0,0,0,0,0,0,0,0
+370,What herbal should I use with rhinorrhea,0,0,0,0,0,1,0,0,0,0
+371,Which natural remedy should I use for anti-diabetic,1,0,0,0,1,0,1,0,0,0
+372,I need a herbal for diabetes,1,0,0,0,1,0,1,1,1,0
+373,My need concerns with acute otitis media,0,1,0,0,0,0,0,0,0,0
+374,I have asthma,0,0,0,0,0,0,0,0,0,1
+375,My need concerns with gut,0,0,1,0,0,0,0,0,0,0
+376,Is there a herbal for joint problems,0,1,0,0,0,0,0,0,0,0
+377,Is there a remedy for migraine,0,0,0,0,0,1,0,0,0,0
+378,What herbal should I use with anti-spasm,0,1,1,0,0,0,0,0,0,0
+379,My need concerns with Vitamin C,1,0,1,0,1,0,0,0,1,0
+380,My need concerns with rich in vitamins,0,0,0,0,0,0,1,1,0,0
+381,My need concerns with urinary tract infection,0,1,0,0,0,0,0,0,0,0
+382,My need concerns with skincare,0,0,0,0,0,0,0,1,0,0
+383,What herbal should I use with urinary tract,0,1,0,0,0,0,0,0,0,0
+384,Herbal for skin damage,0,0,0,0,0,0,0,0,1,0
+385,My need concerns with rich in minerals,0,0,0,0,0,0,1,0,0,0
+386,Is there a herbal for anti-melanogenic,1,1,0,0,0,0,0,0,0,0
+387,My need concerns with heart problems,1,0,0,0,0,0,0,0,0,0
+388,What herbal should I use with nutrient deficiencies,0,0,0,0,0,0,0,1,0,0
+389,I have anti-spasm,0,1,1,0,0,0,0,0,0,0
+390,Is there a remedy for hypertension,0,1,0,0,0,0,0,0,0,0
+391,I need a herbal for high blood pressure,1,1,0,0,1,0,0,0,0,0
+392,My need concerns with liver,0,1,0,1,0,0,1,0,0,0
+393,I have calcium,0,0,0,0,0,0,0,1,0,0
+394,I need a herbal for high cholesterol,0,0,0,0,0,0,1,0,0,0
+395,Is there a herbal for gut problems,1,0,0,0,0,0,0,0,0,0
+396,I need a herbal for wound infection,0,1,0,0,0,0,0,0,0,0
+397,I have malnutrition,0,0,0,0,0,0,0,1,0,0
+398,Which natural remedy should I use for rich in potassium,1,0,0,0,0,0,0,0,0,0
+399,Is there a remedy for pharyngitis,0,1,0,0,0,0,0,0,1,1
+400,I have laryngitis,0,1,0,0,0,0,0,0,1,1
+401,I have cirrhosis,0,0,0,1,0,0,0,0,0,0
+402,I have stomach pain,0,1,0,0,0,1,0,0,0,0
+403,Herbal for high uric acid,0,1,0,0,0,0,0,0,0,0
+404,Herbal for hepatitis,0,1,0,1,0,0,0,0,0,0
+405,I have lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+406,I have sedative,0,0,1,1,0,0,0,0,0,0
+407,Which natural remedy should I use for insect bites,0,0,0,0,0,0,0,0,0,1
+408,My need concerns with rich in fiber,0,0,1,0,0,0,1,0,0,0
+409,I need a herbal for blood sugar,1,0,0,0,1,0,1,1,0,0
+410,Is there a herbal for inflammation,1,1,0,1,0,0,0,1,0,1
+411,What herbal should I use with stomach pain,0,1,0,0,0,1,0,0,0,0
+412,Which natural remedy should I use for heart problems,1,0,0,0,0,0,0,0,0,0
+413,What herbal should I use with migraine,0,0,0,0,0,1,0,0,0,0
+414,My need concerns with respiratory infection,0,1,0,0,0,0,0,0,1,1
+415,My need concerns with skin aging,0,0,0,0,0,0,0,0,1,0
+416,I need a herbal for kidney stones,0,1,1,0,0,0,0,0,0,0
+417,Herbal for rich in vitamins,0,0,0,0,0,0,1,1,0,0
+418,My need concerns with skin damage,0,0,0,0,0,0,0,0,1,0
+419,I need a herbal for source of B vitamins,1,0,0,0,0,0,0,0,0,0
+420,I have heart disease,0,0,1,1,0,0,0,0,0,0
+421,My need concerns with vitamin E,0,0,0,0,0,0,0,1,0,0
+422,Is there a herbal for low calories,0,0,0,0,1,0,0,0,0,0
+423,What herbal should I use with medicine,0,0,0,1,0,0,0,0,0,1
+424,What herbal should I use with relaxing,0,0,1,1,0,0,0,0,0,0
+425,Which natural remedy should I use for fiber,1,0,1,0,0,0,0,0,1,0
+426,Herbal for headaches,0,0,0,0,0,1,0,0,0,0
+427,What herbal should I use with rich in fiber,0,0,1,0,0,0,1,0,0,0
+428,Which natural remedy should I use for indigestion,0,0,0,0,0,1,0,0,1,0
+429,My need concerns with LBM,0,1,0,0,0,0,0,0,0,0
+430,Is there a remedy for muscle pain,0,1,0,0,0,0,0,0,0,1
+431,Which natural remedy should I use for colds,0,1,0,0,0,0,0,0,0,0
+432,Is there a remedy for wound healing,0,1,0,0,0,0,0,0,1,0
+433,I need a herbal for freshen breath,0,0,0,0,0,1,0,0,0,0
+434,Is there a herbal for anti-diarrhea,0,1,0,0,0,0,0,0,0,0
+435,What herbal should I use with diarrhea,0,1,0,1,0,0,0,0,1,0
+436,I need a herbal for fever,0,1,0,0,0,0,0,0,0,1
+437,What herbal should I use with low calorie count,1,0,0,0,0,0,0,0,0,0
+438,I need a herbal for anti-diarrhea,0,1,0,0,0,0,0,0,0,0
+439,Is there a herbal for urinary tract,0,1,0,0,0,0,0,0,0,0
+440,I have kidney disease,0,1,0,0,0,0,0,0,0,0
+441,Is there a herbal for skin irritation,0,0,0,0,0,0,0,0,0,1
+442,Is there a herbal for hypertension,0,1,0,0,0,0,0,0,0,0
+443,Herbal for scalds on skin,0,0,0,0,1,0,0,0,0,0
+444,Is there a remedy for boost energy level,0,0,0,0,0,0,0,1,0,0
+445,Is there a herbal for cough,0,1,0,0,0,1,0,0,1,1
+446,I have acute rhinitis,0,1,0,0,0,0,0,0,0,0
+447,I need a herbal for aromatherapy,0,0,0,0,0,1,0,0,0,0
+448,Herbal for blood clotting,0,1,0,0,0,0,0,0,0,0
+449,My need concerns with acute rhinosinusitis,0,1,0,0,0,0,0,0,0,0
+450,I have support fetal growth,0,0,0,0,1,0,0,0,0,0
+451,Which natural remedy should I use for healthy hair,0,0,0,0,1,0,0,0,0,0
+452,Which natural remedy should I use for skin burns,0,0,0,0,1,0,0,0,0,0
+453,What herbal should I use with skin burns,0,0,0,0,1,0,0,0,0,0
+454,My need concerns with fever,0,1,0,0,0,0,0,0,0,1
+455,Which natural remedy should I use for sore throat,0,0,0,0,0,1,0,0,0,1
+456,What herbal should I use with scalds on skin,0,0,0,0,1,0,0,0,0,0
+457,Which natural remedy should I use for anemia,0,0,1,0,0,0,0,0,0,0
+458,Herbal for dental issues,0,0,0,0,0,1,0,0,0,0
+459,Is there a remedy for bad breath,0,0,0,0,0,1,0,0,0,0
+460,Is there a remedy for rich in vitamins,0,0,0,0,0,0,1,1,0,0
+461,What herbal should I use with fiber,1,0,1,0,0,0,0,0,1,0
+462,What herbal should I use with fever,0,1,0,0,0,0,0,0,0,1
+463,Is there a remedy for high uric acid,0,1,0,0,0,0,0,0,0,0
+464,Is there a herbal for LBM,0,1,0,0,0,0,0,0,0,0
+465,I have rich in fiber,0,0,1,0,0,0,1,0,0,0
+466,Which natural remedy should I use for acute rhinitis,0,1,0,0,0,0,0,0,0,0
+467,My need concerns with radical damage,0,0,0,1,0,0,0,0,1,0
+468,My need concerns with obesity,0,1,0,0,0,0,0,0,0,0
+469,My need concerns with insect bites,0,0,0,0,0,0,0,0,0,1
+470,What herbal should I use with calm,0,0,0,1,0,1,0,0,0,0
+471,I have cold,0,0,0,0,0,1,0,0,0,1
+472,Is there a herbal for medicine,0,0,0,1,0,0,0,0,0,1
+473,What herbal should I use with ulcer,0,1,0,0,0,0,0,0,0,0
+474,I need a herbal for liver disease,0,0,0,1,0,0,0,0,0,0
+475,Herbal for skin,0,0,0,0,1,0,0,0,1,1
+476,Herbal for rhinitis,0,1,0,0,0,1,0,0,0,0
+477,What herbal should I use with gut problems,1,0,0,0,0,0,0,0,0,0
+478,Is there a remedy for hair,0,0,0,0,1,0,0,0,0,0
+479,Which natural remedy should I use for rich in fiber,0,0,1,0,0,0,1,0,0,0
+480,What herbal should I use with relax muscle,0,1,0,0,0,0,0,0,0,0
+481,Is there a remedy for infection,0,1,0,0,1,0,1,0,1,0
+482,Which natural remedy should I use for rich in iron,0,0,1,0,1,0,0,0,0,0
+483,My need concerns with skin problems,1,1,0,0,0,0,0,0,0,0
+484,Which natural remedy should I use for respiratory infection,0,1,0,0,0,0,0,0,1,1
+485,Is there a remedy for Parkinsonâ€™s disease,0,0,0,1,0,0,0,0,0,0
+486,I need a herbal for ulcer,0,1,0,0,0,0,0,0,0,0
+487,I have ulcer,0,1,0,0,0,0,0,0,0,0
+488,Is there a remedy for rich in fiber,0,0,1,0,0,0,1,0,0,0
+489,Which natural remedy should I use for wound,0,1,0,0,0,0,0,0,1,0
+490,What herbal should I use with respiratory ailments,0,0,0,0,0,0,0,0,0,1
+491,Which natural remedy should I use for kidney problem,0,1,0,0,0,0,0,0,0,0
+492,I need a herbal for stress,0,0,0,1,0,0,0,1,0,0
+493,My need concerns with diabetes,1,0,0,0,1,0,1,1,1,0
+494,I have spasm,0,1,1,0,0,0,0,0,0,0
+495,Is there a remedy for kidney stones,0,1,1,0,0,0,0,0,0,0
+496,Which natural remedy should I use for liver pain,0,0,0,1,0,0,0,0,0,0
+497,I need a herbal for bloating,0,0,0,0,0,1,0,0,0,0
+498,My need concerns with vitamin C,0,0,0,0,0,0,0,1,0,0
+499,Herbal for hair,0,0,0,0,1,0,0,0,0,0
+500,Which natural remedy should I use for cancer treatment,0,0,0,1,0,0,0,0,0,0
+501,I need a herbal for cell damage,0,0,0,0,1,0,0,0,1,0
+502,What herbal should I use with rhinitis,0,1,0,0,0,1,0,0,0,0
+503,Is there a herbal for hepatitis,0,1,0,1,0,0,0,0,0,0
+504,Is there a remedy for tea,0,1,1,1,0,0,0,1,1,0
+505,Is there a remedy for kidney disease,0,1,0,0,0,0,0,0,0,0
+506,I need a herbal for iron,0,0,1,0,0,0,0,1,0,0
+507,My need concerns with hair,0,0,0,0,1,0,0,0,0,0
+508,My need concerns with kidney disease,0,1,0,0,0,0,0,0,0,0
+509,What herbal should I use with liver,0,1,0,1,0,0,1,0,0,0
+510,Herbal for natural decongestant,0,0,0,0,0,1,0,0,0,0
+511,What herbal should I use with boost energy level,0,0,0,0,0,0,0,1,0,0
+512,What herbal should I use with laryngitis,0,1,0,0,0,0,0,0,1,1
+513,Which natural remedy should I use for rich in micronutrients,1,0,0,0,0,0,0,0,0,0
+514,I need a herbal for relax muscle,0,1,0,0,0,0,0,0,0,0
+515,Is there a herbal for blood sugar control,0,0,0,0,0,0,0,1,1,0
+516,I need a herbal for mental clarity,0,0,0,1,0,0,0,0,0,0
+517,Is there a herbal for blood clotting,0,1,0,0,0,0,0,0,0,0
+518,What herbal should I use with digestive discomfort,0,0,0,0,0,1,0,0,0,0
+519,What herbal should I use with dysentery,0,0,0,1,0,0,0,0,1,0
+520,I have bad breath,0,0,0,0,0,1,0,0,0,0
+521,I have abdominal pain,0,0,0,1,0,0,0,0,0,0
+522,I have colds,0,1,0,0,0,0,0,0,0,0
+523,What herbal should I use with skin damage,0,0,0,0,0,0,0,0,1,0
+524,What herbal should I use with asthma,0,0,0,0,0,0,0,0,0,1
+525,Is there a remedy for refreshing,0,0,0,0,0,1,0,0,0,0
+526,Is there a herbal for anemic,0,0,1,0,0,0,0,0,0,0
+527,Is there a herbal for pregnancy,0,0,0,0,1,0,0,0,0,0
+528,I have freshen breath,0,0,0,0,0,1,0,0,0,0
+529,My need concerns with cuts,0,1,0,0,0,0,0,0,0,0
+530,Is there a remedy for loose stools,0,1,0,0,0,0,0,0,0,0
+531,What herbal should I use with joint problems,0,1,0,0,0,0,0,0,0,0
+532,Is there a herbal for rhinorrhea,0,0,0,0,0,1,0,0,0,0
+533,What herbal should I use with liver disease,0,0,0,1,0,0,0,0,0,0
+534,Which natural remedy should I use for high cholesterol,0,0,0,0,0,0,1,0,0,0
+535,Is there a herbal for rheumatism,0,1,0,0,0,0,0,0,0,0
+536,Is there a remedy for source of B vitamins,1,0,0,0,0,0,0,0,0,0
+537,What herbal should I use with immune system,1,0,0,1,1,0,1,0,1,0
+538,My need concerns with anxiety,0,0,0,1,0,0,0,0,0,0
+539,Is there a herbal for indigestion,0,0,0,0,0,1,0,0,1,0
+540,Is there a herbal for low calorie count,1,0,0,0,0,0,0,0,0,0
+541,Is there a remedy for freshen breath,0,0,0,0,0,1,0,0,0,0
+542,I need a herbal for rheumatism,0,1,0,0,0,0,0,0,0,0
+543,I need a herbal for skin problems,1,1,0,0,0,0,0,0,0,0
+544,I have dry cough,0,1,0,0,0,0,0,0,0,0
+545,Which natural remedy should I use for stomach pain,0,1,0,0,0,1,0,0,0,0
+546,I have migraine,0,0,0,0,0,1,0,0,0,0
+547,I need a herbal for skincare,0,0,0,0,0,0,0,1,0,0
+548,Is there a herbal for hair,0,0,0,0,1,0,0,0,0,0
+549,What herbal should I use with anemic,0,0,1,0,0,0,0,0,0,0
+550,Is there a remedy for mental clarity,0,0,0,1,0,0,0,0,0,0
+551,What herbal should I use with blood sugar control,0,0,0,0,0,0,0,1,1,0
+552,What herbal should I use with wound infection,0,1,0,0,0,0,0,0,0,0
+553,I have infected wound,0,1,0,0,0,0,0,0,0,0
+554,What herbal should I use with skin problems,1,1,0,0,0,0,0,0,0,0
+555,What herbal should I use with acute rhinitis,0,1,0,0,0,0,0,0,0,0
+556,What herbal should I use with kidney problem,0,1,0,0,0,0,0,0,0,0
+557,My need concerns with cancer treatment,0,0,0,1,0,0,0,0,0,0
+558,Herbal for rhinorrhea,0,0,0,0,0,1,0,0,0,0
+559,I have aromatherapy,0,0,0,0,0,1,0,0,0,0
+560,Is there a herbal for cancer,1,0,0,1,0,0,0,0,0,0
+561,I have blood sugar,1,0,0,0,1,0,1,1,0,0
+562,What herbal should I use with tonsilitis,0,1,0,0,0,0,0,0,1,1
+563,I have infection,0,1,0,0,1,0,1,0,1,0
+564,Herbal for flavonoids,1,0,0,0,0,0,0,1,1,1
+565,Which natural remedy should I use for calm,0,0,0,1,0,1,0,0,0,0
+566,Which natural remedy should I use for cancer,1,0,0,1,0,0,0,0,0,0
+567,Is there a remedy for respiratory ailments,0,0,0,0,0,0,0,0,0,1
+568,Is there a herbal for lower respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+569,Herbal for migraine,0,0,0,0,0,1,0,0,0,0
+570,Which natural remedy should I use for spasm,0,1,1,0,0,0,0,0,0,0
+571,I have low calorie count,1,0,0,0,0,0,0,0,0,0
+572,My need concerns with cough,0,1,0,0,0,1,0,0,1,1
+573,Is there a remedy for obesity,0,1,0,0,0,0,0,0,0,0
+574,I have Vitamin C,1,0,1,0,1,0,0,0,1,0
+575,I have dull hair,0,0,0,0,1,0,0,0,0,0
+576,I have skin damage,0,0,0,0,0,0,0,0,1,0
+577,My need concerns with dental issues,0,0,0,0,0,1,0,0,0,0
+578,I need a herbal for healthy hair,0,0,0,0,1,0,0,0,0,0
+579,I have blood clotting,0,1,0,0,0,0,0,0,0,0
+580,Is there a herbal for heart problems,1,0,0,0,0,0,0,0,0,0
+581,Which natural remedy should I use for stroke,0,0,1,0,0,0,0,0,0,0
+582,What herbal should I use with cell growth,0,0,0,0,1,0,0,0,1,0
+583,I need a herbal for nutrient deficiencies,0,0,0,0,0,0,0,1,0,0
+584,I need a herbal for rich in iron,0,0,1,0,1,0,0,0,0,0
+585,I need a herbal for urinary tract infection,0,1,0,0,0,0,0,0,0,0
+586,Herbal for joint problems,0,1,0,0,0,0,0,0,0,0
+587,I have cough,0,1,0,0,0,1,0,0,1,1
+588,Is there a herbal for asthma,0,0,0,0,0,0,0,0,0,1
+589,Herbal for high fiber,0,0,1,0,0,0,1,0,0,0
+590,Which natural remedy should I use for skin aging,0,0,0,0,0,0,0,0,1,0
+591,Is there a remedy for blood sugar,1,0,0,0,1,0,1,1,0,0
+592,I need a herbal for immune system,1,0,0,1,1,0,1,0,1,0
+593,I have stroke,0,0,1,0,0,0,0,0,0,0
+594,What herbal should I use with weight loss,0,0,0,0,0,0,1,0,0,0
+595,My need concerns with calcium,0,0,0,0,0,0,0,1,0,0
+596,Is there a remedy for high fiber,0,0,1,0,0,0,1,0,0,0
+597,Is there a herbal for high cholesterol,0,0,0,0,0,0,1,0,0,0
+598,Is there a herbal for liver,0,1,0,1,0,0,1,0,0,0
+599,I need a herbal for rhinitis,0,1,0,0,0,1,0,0,0,0
+600,Is there a remedy for antibacterial,0,0,0,0,1,0,0,0,0,0
+601,Which natural remedy should I use for nasal congestion,0,1,0,0,0,2,0,0,0,1
+602,Herbal for respiratory infection,0,1,0,0,0,0,0,0,1,1
+603,I need a herbal for natural decongestant,0,0,0,0,0,1,0,0,0,0
+604,Is there a herbal for prevent weight gain,0,0,1,0,0,0,0,0,0,0
+605,Is there a herbal for loose bowel movement,0,1,0,0,0,0,0,0,0,0
+606,Is there a remedy for skincare,0,0,0,0,0,0,0,1,0,0
+607,Which natural remedy should I use for skincare,0,0,0,0,0,0,0,1,0,0
+608,Herbal for boost energy level,0,0,0,0,0,0,0,1,0,0
+609,I have rich in iron,0,0,1,0,1,0,0,0,0,0
+610,My need concerns with fiber,1,0,1,0,0,0,0,0,1,0
+611,I have nausea,0,0,0,0,0,1,0,0,0,0
+612,I need a herbal for loose stools,0,1,0,0,0,0,0,0,0,0
+613,Which natural remedy should I use for cooling sensation,0,0,0,0,0,1,0,0,0,0
+614,My need concerns with cancer,1,0,0,1,0,0,0,0,0,0
+615,What herbal should I use with antitumor,0,1,0,0,0,0,0,0,0,0
+616,What herbal should I use with kidney disease,0,1,0,0,0,0,0,0,0,0
+617,Herbal for skin irritation,0,0,0,0,0,0,0,0,0,1
+618,Is there a remedy for skin,0,0,0,0,1,0,0,0,1,1
+619,I have sore throat,0,0,0,0,0,1,0,0,0,1
+620,What herbal should I use with ligament problems,0,1,0,0,0,0,0,0,0,0
+621,I need a herbal for vitamin E,0,0,0,0,0,0,0,1,0,0
+622,Which natural remedy should I use for dysentery,0,0,0,1,0,0,0,0,1,0
+623,I need a herbal for abdominal pain,0,0,0,1,0,0,0,0,0,0
+624,Which natural remedy should I use for abdominal pain,0,0,0,1,0,0,0,0,0,0
+625,Is there a herbal for sedative,0,0,1,1,0,0,0,0,0,0
+626,Herbal for vitamin E,0,0,0,0,0,0,0,1,0,0
+627,What herbal should I use with skin infection,0,0,0,0,1,0,0,0,0,0
+628,Herbal for viral infection,1,0,0,0,0,0,0,0,0,0
+629,Is there a herbal for relaxing,0,0,1,1,0,0,0,0,0,0
+630,Is there a herbal for antimicrobial,0,1,0,0,0,1,0,0,1,1
+631,Is there a herbal for cirrhosis,0,0,0,1,0,0,0,0,0,0
+632,Is there a herbal for cuts,0,1,0,0,0,0,0,0,0,0
+633,I have respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+634,I have ulcers,1,0,0,0,0,0,0,0,0,0
+635,My need concerns with anemic,0,0,1,0,0,0,0,0,0,0
+636,I have vitamin A,0,0,0,0,0,0,0,1,0,0
+637,I need a herbal for laryngitis,0,1,0,0,0,0,0,0,1,1
+638,What herbal should I use with digestion,0,0,0,0,0,1,0,0,1,0
+639,What herbal should I use with pharyngitis,0,1,0,0,0,0,0,0,1,1
+640,Which natural remedy should I use for Vitamin C,1,0,1,0,1,0,0,0,1,0
+641,My need concerns with lower cholesterol,0,0,1,0,0,0,0,0,0,0
+642,Herbal for stroke,0,0,1,0,0,0,0,0,0,0
+643,What herbal should I use with citric acid,0,0,1,0,0,0,0,0,0,0
+644,Herbal for weight management,0,0,0,0,0,0,1,0,0,0
+645,Which natural remedy should I use for wound healing,0,1,0,0,0,0,0,0,1,0
+646,My need concerns with bone problems,0,1,0,0,0,0,0,0,0,0
+647,My need concerns with tonsilitis,0,1,0,0,0,0,0,0,1,1
+648,Is there a remedy for heart problems,1,0,0,0,0,0,0,0,0,0
+649,What herbal should I use with loose stools,0,1,0,0,0,0,0,0,0,0
+650,I have alkaloids,0,0,0,0,0,0,0,0,0,1
+651,Is there a herbal for radical damage,0,0,0,1,0,0,0,0,1,0
+652,Which natural remedy should I use for dry cough,0,1,0,0,0,0,0,0,0,0
+653,I have flavonoids,1,0,0,0,0,0,0,1,1,1
+654,Is there a remedy for protein,0,0,0,0,0,0,0,1,0,0
+655,I have rich in minerals,0,0,0,0,0,0,1,0,0,0
+656,Is there a herbal for muscle pain,0,1,0,0,0,0,0,0,0,1
+657,Is there a remedy for skin burns,0,0,0,0,1,0,0,0,0,0
+658,Is there a remedy for vitamin A,0,0,0,0,0,0,0,1,0,0
+659,Is there a herbal for calm,0,0,0,1,0,1,0,0,0,0
+660,I need a herbal for pregnancy,0,0,0,0,1,0,0,0,0,0
+661,I have protein,0,0,0,0,0,0,0,1,0,0
+662,Is there a remedy for cuts,0,1,0,0,0,0,0,0,0,0
+663,What herbal should I use with anti-obesity,0,1,0,0,0,0,0,0,0,0
+664,Is there a remedy for skin infection,0,0,0,0,1,0,0,0,0,0
+665,What herbal should I use with muscle pain,0,1,0,0,0,0,0,0,0,1
+666,What herbal should I use with cancer treatment,0,0,0,1,0,0,0,0,0,0
+667,Is there a remedy for tonsilitis,0,1,0,0,0,0,0,0,1,1
+668,I have viral infection,1,0,0,0,0,0,0,0,0,0
+669,Is there a remedy for acute rhinosinusitis,0,1,0,0,0,0,0,0,0,0
+670,What herbal should I use with antibacterial,0,0,0,0,1,0,0,0,0,0
+671,What herbal should I use with infected wound,0,1,0,0,0,0,0,0,0,0
+672,I need a herbal for alkaloids,0,0,0,0,0,0,0,0,0,1
+673,Is there a remedy for muscle pain,0,1,0,0,0,0,0,0,0,1
+674,Herbal for acute otitis media,0,1,0,0,0,0,0,0,0,0
+675,My need concerns with calm,0,0,0,1,0,1,0,0,0,0
+676,Herbal for bad breath,0,0,0,0,0,1,0,0,0,0
+677,Herbal for nutrient deficiencies,0,0,0,0,0,0,0,1,0,0
+678,Is there a herbal for gut,0,0,1,0,0,0,0,0,0,0
+679,Herbal for diabetes,1,0,0,0,1,0,1,1,1,0
+680,I need a herbal for indigestion,0,0,0,0,0,1,0,0,1,0
+681,Herbal for heart problems,1,0,0,0,0,0,0,0,0,0
+682,I need a herbal for arthritis,0,1,0,0,0,0,0,0,0,0
+683,My need concerns with infected wound,0,1,0,0,0,0,0,0,0,0
+684,Is there a herbal for hepatoprotective,0,1,0,1,0,0,0,0,0,0
+685,Is there a remedy for minerals,0,0,0,0,1,0,0,0,0,0
+686,What herbal should I use with cancer,1,0,0,1,0,0,0,0,0,0
+687,I need a herbal for LBM,0,1,0,0,0,0,0,0,0,0
+688,Herbal for spasm,0,1,1,0,0,0,0,0,0,0
+689,My need concerns with dysentery,0,0,0,1,0,0,0,0,1,0
+690,Herbal for cirrhosis,0,0,0,1,0,0,0,0,0,0
+691,Herbal for loose bowel movement,0,1,0,0,0,0,0,0,0,0
+692,What herbal should I use with headaches,0,0,0,0,0,1,0,0,0,0
+693,Is there a remedy for anti-diabetic,1,0,0,0,1,0,1,0,0,0
+694,Is there a herbal for minerals,0,0,0,0,1,0,0,0,0,0
+695,Herbal for dull hair,0,0,0,0,1,0,0,0,0,0
+696,Which natural remedy should I use for scalds on skin,0,0,0,0,1,0,0,0,0,0
+697,I need a herbal for Vitamin C,1,0,1,0,1,0,0,0,1,0
+698,Is there a remedy for fever,0,1,0,0,0,0,0,0,0,1
+699,Which natural remedy should I use for vitamin A,0,0,0,0,0,0,0,1,0,0
+700,Herbal for heart disease,0,0,1,1,0,0,0,0,0,0
+701,I need a herbal for stroke,0,0,1,0,0,0,0,0,0,0
+702,Is there a herbal for antitumor,0,1,0,0,0,0,0,0,0,0
+703,Is there a remedy for rhinitis,0,1,0,0,0,1,0,0,0,0
+704,I need a herbal for anti-diabetic,1,0,0,0,1,0,1,0,0,0
+705,What herbal should I use with hyperglycemia,0,0,0,0,1,0,0,0,0,0
+706,Is there a herbal for rich in iron,0,0,1,0,1,0,0,0,0,0
+707,Which natural remedy should I use for cough,0,1,0,0,0,1,0,0,1,1
+708,Which natural remedy should I use for high blood pressure,1,1,0,0,1,0,0,0,0,0
+709,Is there a remedy for UTI,0,1,0,0,0,0,0,0,0,0
+710,I have skincare,0,0,0,0,0,0,0,1,0,0
+711,My need concerns with hyperglycemia,0,0,0,0,1,0,0,0,0,0
+712,I need a herbal for kidney problem,0,1,0,0,0,0,0,0,0,0
+713,I have relax muscle,0,1,0,0,0,0,0,0,0,0
+714,I need a herbal for skin aging,0,0,0,0,0,0,0,0,1,0
+715,Herbal for skin aging,0,0,0,0,0,0,0,0,1,0
+716,Herbal for immune system,1,0,0,1,1,0,1,0,1,0
+717,My need concerns with promote satiety/satisfaction,0,0,0,0,0,0,1,0,0,0
+718,Which natural remedy should I use for LBM,0,1,0,0,0,0,0,0,0,0
+719,Which natural remedy should I use for blood sugar,1,0,0,0,1,0,1,1,0,0
+720,I need a herbal for dry cough,0,1,0,0,0,0,0,0,0,0
+721,Herbal for radical damage,0,0,0,1,0,0,0,0,1,0
+722,My need concerns with ulcers,1,0,0,0,0,0,0,0,0,0
+723,My need concerns with dull hair,0,0,0,0,1,0,0,0,0,0
+724,My need concerns with anti-obesity,0,1,0,0,0,0,0,0,0,0
+725,Is there a herbal for fiber,1,0,1,0,0,0,0,0,1,0
+726,I need a herbal for fiber,1,0,1,0,0,0,0,0,1,0
+727,Is there a herbal for infection,0,1,0,0,1,0,1,0,1,0
+728,Is there a remedy for lower cholesterol,0,0,1,0,0,0,0,0,0,0
+729,My need concerns with stomach discomfort,0,1,0,0,0,1,0,0,0,0
+730,Herbal for Vitamin A,0,0,0,0,1,0,0,0,0,0
+731,Herbal for obesity,0,1,0,0,0,0,0,0,0,0
+732,Which natural remedy should I use for respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+733,Which natural remedy should I use for healthy digestion,0,0,0,0,0,1,0,0,0,0
+734,Herbal for rheumatism,0,1,0,0,0,0,0,0,0,0
+735,My need concerns with blood sugar,1,0,0,0,1,0,1,1,0,0
+736,Is there a remedy for stomach discomfort,0,1,0,0,0,1,0,0,0,0
+737,Which natural remedy should I use for upper respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+738,I have minerals,0,0,0,0,1,0,0,0,0,0
+739,What herbal should I use with freshen breath,0,0,0,0,0,1,0,0,0,0
+740,Is there a remedy for skin problems,1,1,0,0,0,0,0,0,0,0
+741,Is there a herbal for anemia,0,0,1,0,0,0,0,0,0,0
+742,I need a herbal for loose bowel movement,0,1,0,0,0,0,0,0,0,0
+743,Is there a herbal for rich in potassium,1,0,0,0,0,0,0,0,0,0
+744,My need concerns with flavonoids,1,0,0,0,0,0,0,1,1,1
+745,I have urinary tract infection,0,1,0,0,0,0,0,0,0,0
+746,I need a herbal for minerals,0,0,0,0,1,0,0,0,0,0
+747,What herbal should I use with cell repair,0,0,0,0,1,0,0,0,1,0
+748,My need concerns with prevent weight gain,0,0,1,0,0,0,0,0,0,0
+749,I have constipation,1,0,0,0,0,0,0,0,0,0
+750,Herbal for fever,0,1,0,0,0,0,0,0,0,1
+751,Herbal for hyperglycemia,0,0,0,0,1,0,0,0,0,0
+752,I need a herbal for gut,0,0,1,0,0,0,0,0,0,0
+753,Is there a remedy for pregnancy,0,0,0,0,1,0,0,0,0,0
+754,My need concerns with spasm,0,1,1,0,0,0,0,0,0,0
+755,My need concerns with iron,0,0,1,0,0,0,0,1,0,0
+756,I need a herbal for colds,0,1,0,0,0,0,0,0,0,0
+757,I need a herbal for muscle pain,0,1,0,0,0,0,0,0,0,1
+758,Which natural remedy should I use for headaches,0,0,0,0,0,1,0,0,0,0
+759,Which natural remedy should I use for migraine,0,0,0,0,0,1,0,0,0,0
+760,Which natural remedy should I use for joint problems,0,1,0,0,0,0,0,0,0,0
+761,Which natural remedy should I use for vitamin E,0,0,0,0,0,0,0,1,0,0
+762,Is there a remedy for abdominal pain,0,0,0,1,0,0,0,0,0,0
+763,Which natural remedy should I use for medicine,0,0,0,1,0,0,0,0,0,1
+764,I need a herbal for headaches,0,0,0,0,0,1,0,0,0,0
+765,I have antioxidant,0,1,0,1,0,0,1,1,1,0
+766,Which natural remedy should I use for rich in vitamins,0,0,0,0,0,0,1,1,0,0
+767,Is there a herbal for flavonoids,1,0,0,0,0,0,0,1,1,1
+768,I have heart problems,1,0,0,0,0,0,0,0,0,0
+769,Herbal for cell repair,0,0,0,0,1,0,0,0,1,0
+770,What herbal should I use with stress,0,0,0,1,0,0,0,1,0,0
+771,My need concerns with relax muscle,0,1,0,0,0,0,0,0,0,0
+772,What herbal should I use with abdominal pain,0,0,0,1,0,0,0,0,0,0
+773,Is there a remedy for liver disease,0,0,0,1,0,0,0,0,0,0
+774,Which natural remedy should I use for kidney disease,0,1,0,0,0,0,0,0,0,0
+775,Which natural remedy should I use for cell growth,0,0,0,0,1,0,0,0,1,0
+776,Is there a remedy for LBM,0,1,0,0,0,0,0,0,0,0
+777,What herbal should I use with ulcers,1,0,0,0,0,0,0,0,0,0
+778,Is there a herbal for loose stools,0,1,0,0,0,0,0,0,0,0
+779,I need a herbal for acute rhinosinusitis,0,1,0,0,0,0,0,0,0,0
+780,Is there a herbal for anxiety,0,0,0,1,0,0,0,0,0,0
+781,Is there a remedy for vitamin C,0,0,0,0,0,0,0,1,0,0
+782,My need concerns with natural decongestant,0,0,0,0,0,1,0,0,0,0
+783,I have liver,0,1,0,1,0,0,1,0,0,0
+784,I have high fiber,0,0,1,0,0,0,1,0,0,0
+785,Herbal for anti-melanogenic,1,1,0,0,0,0,0,0,0,0
+786,I have anxiety,0,0,0,1,0,0,0,0,0,0
+787,Which natural remedy should I use for minerals,0,0,0,0,1,0,0,0,0,0
+788,My need concerns with Parkinsonâ€™s disease,0,0,0,1,0,0,0,0,0,0
+789,Which natural remedy should I use for bone problems,0,1,0,0,0,0,0,0,0,0
+790,Which natural remedy should I use for cirrhosis,0,0,0,1,0,0,0,0,0,0
+791,Is there a remedy for aromatherapy,0,0,0,0,0,1,0,0,0,0
+792,Which natural remedy should I use for immune system,1,0,0,1,1,0,1,0,1,0
+793,Herbal for support fetal growth,0,0,0,0,1,0,0,0,0,0
+794,What herbal should I use with dental issues,0,0,0,0,0,1,0,0,0,0
+795,My need concerns with medicine,0,0,0,1,0,0,0,0,0,1
+796,Herbal for bloating,0,0,0,0,0,1,0,0,0,0
+797,Which natural remedy should I use for viral infection,1,0,0,0,0,0,0,0,0,0
+798,I have skin,0,0,0,0,1,0,0,0,1,1
+799,Is there a herbal for natural decongestant,0,0,0,0,0,1,0,0,0,0
+800,I need a herbal for liver,0,1,0,1,0,0,1,0,0,0
+801,Is there a remedy for stomach pain,0,1,0,0,0,1,0,0,0,0
+802,What herbal should I use with inflammation,1,1,0,1,0,0,0,1,0,1
+803,My need concerns with joint problems,0,1,0,0,0,0,0,0,0,0
+804,I need a herbal for cancer,1,0,0,1,0,0,0,0,0,0
+805,Is there a remedy for respiratory infection,0,1,0,0,0,0,0,0,1,1
+806,Which natural remedy should I use for ulcers,1,0,0,0,0,0,0,0,0,0
+807,Which natural remedy should I use for anti-spasm,0,1,1,0,0,0,0,0,0,0
+808,Is there a remedy for liver pain,0,0,0,1,0,0,0,0,0,0
+809,Which natural remedy should I use for pharyngitis,0,1,0,0,0,0,0,0,1,1
+810,What herbal should I use with calcium,0,0,0,0,0,0,0,1,0,0
+811,I need a herbal for protein,0,0,0,0,0,0,0,1,0,0
+812,I have hair,0,0,0,0,1,0,0,0,0,0
+813,My need concerns with high blood pressure,1,1,0,0,1,0,0,0,0,0
+814,I have diabetes,1,0,0,0,1,0,1,1,1,0
+815,I have insect bites,0,0,0,0,0,0,0,0,0,1
+816,Is there a herbal for abdominal pain,0,0,0,1,0,0,0,0,0,0
+817,Is there a herbal for bad breath,0,0,0,0,0,1,0,0,0,0
+818,Which natural remedy should I use for asthma,0,0,0,0,0,0,0,0,0,1
+819,Herbal for antitumor,0,1,0,0,0,0,0,0,0,0
+820,Herbal for alkaloids,0,0,0,0,0,0,0,0,0,1
+821,Which natural remedy should I use for high fiber,0,0,1,0,0,0,1,0,0,0
+822,I have rich in potassium,1,0,0,0,0,0,0,0,0,0
+823,My need concerns with muscle pain,0,1,0,0,0,0,0,0,0,1
+824,I need a herbal for skin damage,0,0,0,0,0,0,0,0,1,0
+825,Herbal for staph infection,0,0,0,0,1,0,0,0,0,0
+826,I need a herbal for rhinorrhea,0,0,0,0,0,1,0,0,0,0
+827,I need a herbal for tumor,0,1,0,0,0,0,0,0,0,0
+828,My need concerns with muscle pain,0,1,0,0,0,0,0,0,0,1
+829,Is there a herbal for migraine,0,0,0,0,0,1,0,0,0,0
+830,Which natural remedy should I use for fever,0,1,0,0,0,0,0,0,0,1
+831,My need concerns with digestive enzymes,0,0,0,0,0,1,0,0,0,0
+832,My need concerns with skin,0,0,0,0,1,0,0,0,1,1
+833,I need a herbal for dental issues,0,0,0,0,0,1,0,0,0,0
+834,Is there a remedy for vitamin E,0,0,0,0,0,0,0,1,0,0
+835,I need a herbal for vitamin C,0,0,0,0,0,0,0,1,0,0
+836,I have relaxing,0,0,1,1,0,0,0,0,0,0
+837,I have wound infection,0,1,0,0,0,0,0,0,0,0
+838,I have ligament problems,0,1,0,0,0,0,0,0,0,0
+839,What herbal should I use with cell damage,0,0,0,0,1,0,0,0,1,0
+840,I need a herbal for skin burns,0,0,0,0,1,0,0,0,0,0
+841,Is there a herbal for cell growth,0,0,0,0,1,0,0,0,1,0
+842,I have digestive discomfort,0,0,0,0,0,1,0,0,0,0
+843,What herbal should I use with sore throat,0,0,0,0,0,1,0,0,0,1
+844,I need a herbal for hair,0,0,0,0,1,0,0,0,0,0
+845,My need concerns with wound infection,0,1,0,0,0,0,0,0,0,0
+846,I have boost energy level,0,0,0,0,0,0,0,1,0,0
+847,What herbal should I use with skin irritation,0,0,0,0,0,0,0,0,0,1
+848,What herbal should I use with low calories,0,0,0,0,1,0,0,0,0,0
+849,Herbal for skin burns,0,0,0,0,1,0,0,0,0,0
+850,Is there a herbal for ulcer,0,1,0,0,0,0,0,0,0,0
+851,I need a herbal for wound healing,0,1,0,0,0,0,0,0,1,0
+852,Herbal for sedative,0,0,1,1,0,0,0,0,0,0
+853,Is there a herbal for rich in fiber,0,0,1,0,0,0,1,0,0,0
+854,Is there a herbal for stomach pain,0,1,0,0,0,1,0,0,0,0
+855,What herbal should I use with aromatherapy,0,0,0,0,0,1,0,0,0,0
+856,Which natural remedy should I use for heart disease,0,0,1,1,0,0,0,0,0,0
+857,Is there a herbal for diarrhea,0,1,0,1,0,0,0,0,1,0
+858,Is there a herbal for wound,0,1,0,0,0,0,0,0,1,0
+859,I need a herbal for staph infection,0,0,0,0,1,0,0,0,0,0
+860,Which natural remedy should I use for aromatherapy,0,0,0,0,0,1,0,0,0,0
+861,Which natural remedy should I use for platelet aggregation,0,1,0,0,0,0,0,0,0,0
+862,Herbal for lower cholesterol,0,0,1,0,0,0,0,0,0,0
+863,What herbal should I use with tumor,0,1,0,0,0,0,0,0,0,0
+864,Is there a herbal for rich in vitamins,0,0,0,0,0,0,1,1,0,0
+865,Herbal for upper respiratory tract infection,0,1,0,0,0,0,0,0,1,1
+866,My need concerns with acute rhinitis,0,1,0,0,0,0,0,0,0,0
+867,I have bone problems,0,1,0,0,0,0,0,0,0,0
+868,I need a herbal for rich in micronutrients,1,0,0,0,0,0,0,0,0,0
+869,Is there a herbal for digestive discomfort,0,0,0,0,0,1,0,0,0,0
+870,What herbal should I use with blood clotting,0,1,0,0,0,0,0,0,0,0
+871,I have refreshing,0,0,0,0,0,1,0,0,0,0
+872,I need a herbal for constipation,1,0,0,0,0,0,0,0,0,0
+873,Is there a remedy for anxiety,0,0,0,1,0,0,0,0,0,0
+874,Herbal for freshen breath,0,0,0,0,0,1,0,0,0,0
+875,What herbal should I use with natural decongestant,0,0,0,0,0,1,0,0,0,0
+876,I need a herbal for insect bites,0,0,0,0,0,0,0,0,0,1
+877,Which natural remedy should I use for constipation,1,0,0,0,0,0,0,0,0,0
+878,I have blood sugar control,0,0,0,0,0,0,0,1,1,0
+879,I have wound healing,0,1,0,0,0,0,0,0,1,0
+880,What herbal should I use with obesity,0,1,0,0,0,0,0,0,0,0
+881,Herbal for infected wound,0,1,0,0,0,0,0,0,0,0
+882,Is there a remedy for diabetes,1,0,0,0,1,0,1,1,1,0
+883,Is there a herbal for support fetal growth,0,0,0,0,1,0,0,0,0,0
+884,Is there a herbal for insect bites,0,0,0,0,0,0,0,0,0,1
+885,Which natural remedy should I use for support fetal growth,0,0,0,0,1,0,0,0,0,0
+886,Is there a remedy for low calories,0,0,0,0,1,0,0,0,0,0
+887,I have citric acid,0,0,1,0,0,0,0,0,0,0
+888,Which natural remedy should I use for anti-obesity,0,1,0,0,0,0,0,0,0,0
+889,What herbal should I use with healthy hair,0,0,0,0,1,0,0,0,0,0
+890,Is there a herbal for spasm,0,1,1,0,0,0,0,0,0,0
+891,My need concerns with sedative,0,0,1,1,0,0,0,0,0,0
+892,Is there a herbal for boost energy level,0,0,0,0,0,0,0,1,0,0
+893,I need a herbal for antitumor,0,1,0,0,0,0,0,0,0,0
+894,Is there a remedy for anemia,0,0,1,0,0,0,0,0,0,0
+895,My need concerns with high fiber,0,0,1,0,0,0,1,0,0,0
+896,My need concerns with ligament problems,0,1,0,0,0,0,0,0,0,0
+897,Is there a remedy for malnutrition,0,0,0,0,0,0,0,1,0,0
+898,Is there a herbal for protein,0,0,0,0,0,0,0,1,0,0
+899,What herbal should I use with loose bowel movement,0,1,0,0,0,0,0,0,0,0
+900,Is there a herbal for anti-spasm,0,1,1,0,0,0,0,0,0,0
+901,What herbal should I use with arthritis,0,1,0,0,0,0,0,0,0,0
+902,I need a herbal for Alzheimerâ€™s disease,0,0,0,1,0,0,0,0,0,0
+903,Herbal for cancer treatment,0,0,0,1,0,0,0,0,0,0
+904,My need concerns with support fetal growth,0,0,0,0,1,0,0,0,0,0
+905,What herbal should I use with Vitamin A,0,0,0,0,1,0,0,0,0,0
+906,My need concerns with dry cough,0,1,0,0,0,0,0,0,0,0
+907,What herbal should I use with acute otitis media,0,1,0,0,0,0,0,0,0,0
+908,Is there a remedy for cirrhosis,0,0,0,1,0,0,0,0,0,0
+909,What herbal should I use with UTI,0,1,0,0,0,0,0,0,0,0
+910,Herbal for asthma,0,0,0,0,0,0,0,0,0,1
+911,My need concerns with anti-spasm,0,1,1,0,0,0,0,0,0,0
+912,My need concerns with rheumatism,0,1,0,0,0,0,0,0,0,0
+913,Is there a remedy for tumor,0,1,0,0,0,0,0,0,0,0
+914,I have kidney problem,0,1,0,0,0,0,0,0,0,0
+915,I need a herbal for vitamin A,0,0,0,0,0,0,0,1,0,0
+916,I need a herbal for blood sugar control,0,0,0,0,0,0,0,1,1,0
+917,I have liver disease,0,0,0,1,0,0,0,0,0,0
+918,I need a herbal for anti-melanogenic,1,1,0,0,0,0,0,0,0,0
+919,I need a herbal for relaxing,0,0,1,1,0,0,0,0,0,0
+920,Herbal for antioxidant,0,1,0,1,0,0,1,1,1,0
+921,What herbal should I use with high blood pressure,1,1,0,0,1,0,0,0,0,0
+922,I have dental issues,0,0,0,0,0,1,0,0,0,0
+923,Herbal for anti-diabetic,1,0,0,0,1,0,1,0,0,0
+924,Herbal for skincare,0,0,0,0,0,0,0,1,0,0
+925,My need concerns with tea,0,1,1,1,0,0,0,1,1,0
+926,Which natural remedy should I use for inflammation,1,1,0,1,0,0,0,1,0,1
+927,Is there a herbal for aromatherapy,0,0,0,0,0,1,0,0,0,0
+928,Herbal for skin problems,1,1,0,0,0,0,0,0,0,0
+929,I have headaches,0,0,0,0,0,1,0,0,0,0
+930,What herbal should I use with rich in vitamins,0,0,0,0,0,0,1,1,0,0
+931,I need a herbal for Vitamin A,0,0,0,0,1,0,0,0,0,0
+932,Herbal for respiratory ailments,0,0,0,0,0,0,0,0,0,1

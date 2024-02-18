@@ -42,6 +42,7 @@ Plant Classification Models/Segmented Herbal Leaf Images/*
 Plant Classification Models/Transformed/*
 Plant Classification Models/Full Dataset Annotations.csv
 
+*.keras
 *.npz
 *.m4a
 *.wav

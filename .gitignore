@@ -43,10 +43,7 @@ Plant Classification Models/Transformed/*
 Plant Classification Models/Full Dataset Annotations.csv
 
 *.npz
-*.jpeg
-*.jpg
-*.keras 
 *.m4a
 *.wav
-*.png
+
 

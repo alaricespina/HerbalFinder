@@ -1291,7 +1291,7 @@ const ScannerScreen = (...args) => {
 
           
         </Camera> */}
-        <Image source={require("./scan-line.png")}/>
+        <Image source={require("./pics/scan-line.png")}/>
     
         <Text className="absolute z-30 text-white top-[70%]"> Scanner </Text>
         

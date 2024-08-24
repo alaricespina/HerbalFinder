@@ -695,13 +695,13 @@ const LoginAndSignUpScreen = (...args) => {
           </View>
         </View>
         
-        {/* <View className="absolute w-full h-[10%] top-[50%] items-center">
+        <View className="absolute w-full h-[10%] top-[50%] items-center">
           <View className="w-4/5 h-full items-end">
             <TouchableOpacity onPress={() => console.log("Forgot your password? You done goofed boy")}>
               <Text className="text-[#766F6F]">Forgot Password?</Text>
             </TouchableOpacity>
           </View>
-        </View> */}
+        </View>
 
 
         <View className="absolute w-full h-[10%] top-[70%] items-center">

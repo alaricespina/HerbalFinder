@@ -119,31 +119,48 @@ def perform_tasks(**kwargs):
     del _model_obj, _history
 
 
-if __name__ == "__main__":
-    os.system("cls")
-    _X, _y = load_dataset()
-    _y = transform_data(_y)
-    X_train, X_valid, X_test, y_train, y_valid, y_test = split_data(_X, _y)
-
-
-
-    #bundled_data = split_data(_X, _y)
-    bundled_data = (X_train, y_train, X_valid, y_valid, X_test, y_test)
-
-    #Inception_Model, ResNet_Model, VGG_Model, SqueezeNet_Model = build_models()
-    models = list(build_models())
+def subr():
     model_names = ["MRV_Inception", "MRV_ResNet", "MRV_VGG", "MRV_SqueezeNet"]
-    history_names = ["MRV_Inception_HISTORY", "MRV_ResNet_HISTORY", "MRV_VGG_HISTORY", "MRV_SqueezeNet_HISTORY"]
-    
-    # Inception done
-    i = 3
-    perform_tasks(model = models[i], 
-                    model_name = model_names[i],
-                    history_name = history_names[i],
-                    data = bundled_data)
+    actual_models = list(build_models())
+    for i, j in zip(model_names, actual_models):
+        print("===================================")
+        print("===================================")
+        print("===================================")
+        print(i)
+        j.summary()
+        print("===================================")
+        print("===================================")
+        print("===================================")
 
-    # Release Model Memory
-    del models[i]
+
+
+if __name__ == "__main__":
+    # os.system("cls")
+    # _X, _y = load_dataset()
+    # _y = transform_data(_y)
+    # X_train, X_valid, X_test, y_train, y_valid, y_test = split_data(_X, _y)
+
+
+
+    # #bundled_data = split_data(_X, _y)
+    # bundled_data = (X_train, y_train, X_valid, y_valid, X_test, y_test)
+
+    # #Inception_Model, ResNet_Model, VGG_Model, SqueezeNet_Model = build_models()
+    # models = list(build_models())
+    # model_names = ["MRV_Inception", "MRV_ResNet", "MRV_VGG", "MRV_SqueezeNet"]
+    # history_names = ["MRV_Inception_HISTORY", "MRV_ResNet_HISTORY", "MRV_VGG_HISTORY", "MRV_SqueezeNet_HISTORY"]
+    
+    # # Inception done
+    # i = 3
+    # perform_tasks(model = models[i], 
+    #                 model_name = model_names[i],
+    #                 history_name = history_names[i],
+    #                 data = bundled_data)
+
+    # # Release Model Memory
+    # del models[i]
+    subr()
+
 
 
 

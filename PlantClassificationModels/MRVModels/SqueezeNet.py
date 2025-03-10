@@ -38,3 +38,6 @@ def MRV_SqueezeNet(INPUT_SHAPE = (64, 64, 3), CONV_CONSTANT = 64 , NUM_CLASSES =
     model = Model(input, output)
     
     return model
+
+if __name__ == "__main__":
+    m = MRV_SqueezeNet()
